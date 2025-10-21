@@ -1,6 +1,6 @@
-👩‍💻 Hi, I'm Faryal Azhar  
+# 👩‍💻 Hi, I'm Faryal Azhar  
 
-Aspiring Software Engineer | IT Undergrad (she/her)  
+**Aspiring Software Engineer | IT Undergrad (she/her)**  
 Currently learning **Python 🐍** & **C++ 💻** | Exploring OOP, GUI, and software design  
 
 **Skills:** Logical Thinking | Problem Solving | File Handling | Git & GitHub  
