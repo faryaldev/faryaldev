@@ -1,4 +1,4 @@
-# 👩‍💻 Hey there, I'm Faryal Ameen!
+# 👩‍💻 Hey there, I'm Faryal Azhar!
 
 ### Aspiring Software Engineer | IT Undergrad Student (she/her)
 
