@@ -1,6 +1,6 @@
 # 👩‍💻 Hi, I'm Faryal Azhar  
 
-**Aspiring Software Engineer | IT Undergrad (she/her)**  
+**💻 Aspiring Software Engineer | Learning Web Development & Building Real-World Projects | IT Undergrad (she/her)**  
 Currently learning **Python 🐍** & **C++ 💻** | Exploring OOP, GUI, and software design  
 
 ---
